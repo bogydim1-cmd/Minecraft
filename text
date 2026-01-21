@@ -1,0 +1,8 @@
+telegram-minecraft-miniapp/
+│
+├── index.html
+├── style.css
+├── game.js
+├── world.js
+├── player.js
+└── telegram.js
